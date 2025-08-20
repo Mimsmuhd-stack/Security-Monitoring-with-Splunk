@@ -34,7 +34,7 @@ The Frothly dataset simulates logs from a fictional company. Using Splunk, I per
 ## 📝 Project Q&A
 Check the document below for the list of investigation questions and answers:
 
-📄 [Download Project Q&A PDF](./project-qa.pdf)
+📄 [Download Project Q&A PDF](https://github.com/Mimsmuhd-stack/Security-Monitoring-with-Splunk/blob/main/project-qa.pdf.pdf)
 
 **_This project was a valuable learning experience, and I look forward to building on these skills in future security challenges._**
 
